@@ -31,3 +31,5 @@ class Queue {
 		console.log ( this.items );
 	}
 }
+
+module.exports = Queue;
